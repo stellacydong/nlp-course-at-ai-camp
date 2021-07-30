@@ -11,7 +11,7 @@ This repo. consists 3 parts: basic python coding, data perparation, and modellin
 2) for people who have known basic python knowledge, start with intermidate series in the pyhon folder. 
 
 
-*Phase 2* data perparation folder which covers: upload data, clean data, analyze data, and vectorize text data 
+*Phase 2*: data perparation folder which covers: upload data, clean data, analyze data, and vectorize text data 
 
-*Phase 3* modeling folder which covers: machine algorithms (perceptron, linear regression, logistic regression, classification, deep learning networks with keras, and pytorch models.)
+*Phase 3*: modeling folder which covers: machine algorithms (perceptron, linear regression, logistic regression, classification, deep learning networks with keras, and pytorch models.)
 
